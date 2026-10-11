@@ -1,18 +1,2 @@
-# 💫 About Me:
-## 👋 Hi, I'm Manikanta J Biradar<br><br>🎯 **Aspiring Data Analyst | Python | SQL | Power BI | Excel**<br><br>I’m a Computer Science Engineering graduate passionate about **Data Analytics, Business Intelligence, and turning data into actionable insights**.<br><br>### 🔍 What I Do<br><br>* 📊 Analyze and visualize data using **Python, Pandas, NumPy & Matplotlib**<br>* 🗄️ Perform data analysis using **SQL, Joins, CTEs & Window Functions**<br>* 📈 Build interactive dashboards using **Power BI, DAX & Power Query**<br>* 📑 Create Excel reports, Pivot Tables, KPIs & business dashboards<br>* 🧹 Perform **data cleaning, validation, EDA and trend analysis**<br>* 🤖 Explore Machine Learning for predictive analytics<br><br>### 🚀 Projects<br><br>I’m building practical projects in:<br><br>* **Retail Performance & Supply Chain Analytics**<br>* **Sales Analysis using Excel & SQL**<br>* **Customer Churn Prediction**<br>* **Energy Consumption Analysis**<br>* **OPD Analytics**<br>* **Used Car Price Analysis using Python**<br><br>### 🛠️ Tech Stack<br><br>**Python • SQL • Power BI • Excel • Pandas • NumPy • Matplotlib • Scikit-learn • PostgreSQL • Git & GitHub**<br><br>📌 Currently focused on improving my **SQL, Python, Power BI, Excel and business analytics skills** and building industry-ready projects.<br><br>📫 **Open to Data Analyst, Business Analyst, BI Analyst, MIS Analyst and Analytics Associate opportunities.**<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manikanta-biradar-4529a127b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manibiradar21@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manibiradar21-hub&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=manibiradar21-hub&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manibiradar21-hub&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=manibiradar21-hub&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[README.md](https://github.com/user-attachments/files/33312752/README.md)
+<img width="1312" height="1199" alt="profile-banner" src="https://github.com/user-attachments/assets/99ec9b6e-bf67-446a-be0e-6124878a613d" />
