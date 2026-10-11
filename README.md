@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/33312843/README.md)
 <div align="center">
 
-<img src="images/profile-banner.png" alt="Manikanta Biradar — Data Analyst portfolio banner" width="100%" />
+
 
 # 👋 Hey, I'm Manikanta Biradar<img width="1536" height="1024" alt="Manikanta Biradar_ From Data to Decisions" src="https://github.com/user-attachments/assets/f4eee581-afb6-49ec-be55-01077f8eb3ee" />
 <img width="1536" height="1024" alt="Manikanta Biradar_ From Data to Decisions" src="https://github.com/user-attachments/assets/dbd5f200-e91f-4202-ae2f-b68b9d4abd52" />
